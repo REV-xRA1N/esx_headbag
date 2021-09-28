@@ -1,8 +1,8 @@
-# esx_headbag
+# frp_headbag
 
-This is simple HEAD BAG SCRIPT for ESX
+## This is simple HEAD BAG SCRIPT for ESX
 
 Required:
 ESX
 
-You are not allowed to rerelease this script
+**You are not allowed to rerelease this script**
