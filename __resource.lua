@@ -2,7 +2,7 @@ resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
 description 'HEAD BAG SCRIPT'
 
-author 'BicuS - FAMERP.PL'
+author 'xRA1N - fox-roleplay.de'
 
 version '1.0.1'
 
